@@ -1,0 +1,5 @@
+request
+beautifulsoup4
+pandas
+tqdm
+jupyter
